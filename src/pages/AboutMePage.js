@@ -1,11 +1,13 @@
 import React from "react";
-import stockPhoto from "../stockphoto.jpg";
+import stockPhoto from "../static/stockphoto.jpg";
+
 
 const AboutMe = () => {
   return (
     <div className="flex flex-col items-center py-10 min-h-screen">
       <h1 className="text-6xl font-medium mb-5">About Me</h1>
       {/* image */}
+      <img src={stockPhoto} alt="profile pic" className="w-96 h-56 my-10"/>
 
       {/*"about me" section */}
       <div className="bg-blue-200 min-w-56 max-w-96 font-bold flex justify-center px-5"></div>
