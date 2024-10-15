@@ -1,5 +1,5 @@
 import React from "react";
-import stockPhoto from "../static/stockphoto.jpg";
+import stockPhoto from "../stockphoto.jpg";
 
 
 const AboutMe = () => {
