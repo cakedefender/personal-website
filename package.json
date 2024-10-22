@@ -1,7 +1,7 @@
 {
-  "name": "website-template",
+  "name": "personal-website",
   "version": "0.1.0",
-  "homepage": "https://cakedefender.github.io/website-template",
+  "homepage": "https://cakedefender.github.io/personal-website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
